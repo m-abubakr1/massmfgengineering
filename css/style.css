@@ -182,7 +182,7 @@
 
 .about-page-header {
   background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url(../img/fimages/y2-crane.jpg) center center no-repeat;
+    url(../img/y2-crane.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -192,7 +192,7 @@
 
 .contact-page-header {
   background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url(../img/fimages/jib-crane3.jpg) center center no-repeat;
+    url(../img/jib-crane3.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -202,7 +202,7 @@
 
 .service-page-header {
   background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),
-    url(../img/fimages/home-services.jpg) center center no-repeat;
+    url(../img/home-services.jpg) center center no-repeat;
   background-size: cover;
 }
 
