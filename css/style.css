@@ -65,6 +65,10 @@
 }
 
 /*** Navbar ***/
+.navbar-custom-brand {
+  display: contents;
+}
+
 .navbar.sticky-top {
   top: -100px;
   transition: 0.5s;
@@ -93,6 +97,15 @@
   margin-left: 8px;
 }
 
+.logo-name-img2 {
+  width: 10%;
+}
+
+.logo-name-img1 {
+  width: 17%;
+  margin: -4%;
+}
+
 @media (max-width: 991.98px) {
   .navbar .navbar-nav .nav-link {
     margin-left: 0;
@@ -102,6 +115,14 @@
   .navbar .navbar-nav {
     margin-top: 25px;
     border-top: 1px solid #eeeeee;
+  }
+  .navbar-custom-brand .logo-name-img1 {
+    margin-left: -48%;
+    width: 43%;
+  }
+  .navbar-custom-brand .logo-name-img2 {
+    width: 23%;
+    margin-left: -5%;
   }
 }
 
