@@ -1,7 +1,7 @@
 # Static Website Project for a Pakistani Company based in Lahore
-## Mass Manufacturing & Enineering Company
+## Mass Manufacturing & Engineering Company
 
-Welcome to the GitHub repository for our client's stunning static website project! This repository contains all of the source code and related files for the website, which was built using a combination of HTML, CSS, JavaScript, SCSS, and Bootstrap.
+Welcome to the GitHub repository for our client's stunning static website project! This repository contains all of the website's source code and related files, which were built using HTML, CSS, JavaScript, SCSS, and Bootstrap.
 
 Our client's website is a modern and eye-catching showcase of their business, designed with a sleek and elegant aesthetic that's optimized for desktop and mobile devices. We used SCSS to create a highly maintainable and organized stylesheet, incorporating nested syntax, variables, and mixins to streamline our CSS.
 
