@@ -1,4 +1,4 @@
-# Static Website Project fOr a Pakistani COmpany
+# Static Website Project for a Pakistani Company
 ## Mass Manufacturing & Enineering Company
 
 Welcome to the GitHub repository for our client's stunning static website project! This repository contains all of the source code and related files for the website, which was built using a combination of HTML, CSS, JavaScript, SCSS, and Bootstrap.
